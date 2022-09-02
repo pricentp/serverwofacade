@@ -47,4 +47,8 @@ public class ScheduleServer {
     public void shutdown(){
         System.out.println("Shutting down...");
     }
+
+    void startBoosting() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
